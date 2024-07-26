@@ -278,7 +278,7 @@ p {
 ============================= */
 
 #logos{	
-	background-image: url(../img/parallax/fond_logos.PNG);
+	background-image: url(../img/parallax/fond_logos.png);
  	background-size: 1200px;
     background-repeat: no-repeat;
     padding-top: 150px;
@@ -294,7 +294,7 @@ p {
 }
 
 #styletopo{	
-	background-image: url(../img/parallax/fond3.png);
+	background-image: url(../img/parallax/fond33.png);
 	padding-top: 150px;
 	padding-bottom: 150px;
 }
